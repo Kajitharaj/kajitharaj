@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kajitharaj Suthakaran</h1>
 <h3 align="center">A passionate software engineer</h3>
+# 💫 About Me:
+🔭 I’m currently working on Mobile App Developement.<br>
+🌱 I’m currently learning more about Full-Stack Development.<br>
+🤔 I would love to Exploring New Technologies.<br>
+📫 How to reach me: Email - kajitharaj.dev@gmail.com<br>
+😄 Pronouns: He<br>
+⚡ Fun fact: I Love to watch movies, play computer games and code.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
